@@ -2,3 +2,4 @@ PyQt5 -- https://pypi.org/project/PyQt5/
 pyvisa -- https://pyvisa.readthedocs.io/en/latest/introduction/index.html
 matplotlib --- https://matplotlib.org/stable/index.html
 numpy --- https://numpy.org/install/
+NI Visa Drivers 
